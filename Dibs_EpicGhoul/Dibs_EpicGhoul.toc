@@ -1,0 +1,7 @@
+## Interface: 44300
+## Title: Dibs_EpicGhoul
+## Version: 1.0
+## Author: Dibs
+## Notes: /epicghoul
+## SavedVariablesPerCharacter: pnames
+Dibs_EpicGhoul.lua
