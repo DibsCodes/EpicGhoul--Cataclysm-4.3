@@ -6,4 +6,4 @@ One of the Unholy DK's in my raid group kept editing a macro with the new name o
 
 I thought making an addon that does this automatically could be a fun way to have a wipe counter of sorts while raiding.
 
-![image]("EpicGhoul--Cataclysm-4.3\sample.png")
+![image]("EpicGhoul--Cataclysm-4.3/sample.png")
