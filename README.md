@@ -6,4 +6,4 @@ One of the Unholy DK's in my raid group kept editing a macro with the new name o
 
 I thought making an addon that does this automatically could be a fun way to have a wipe counter of sorts while raiding.
 
-![SampleImage]("sample.png")
+![sample](https://user-images.githubusercontent.com/116841297/206271510-d2f32f31-6ffb-466c-ab0d-fc75fd99ab99.png)
